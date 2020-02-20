@@ -28,7 +28,7 @@ The input is either gray or color image (but it will be automatically converted 
 (1) Compile pycaffe:
 - Compile the pycaffe interface from [BVLC/caffe](https://github.com/BVLC/caffe/tree/windows);
 - Put the compiled files under ```BVLC/caffe/tree/windows/python/``` to the folder ```build/pycaffe/```.
-- We also provide our compiled files (https://drive.google.com/open?id=1DRFpb75eCCOynFtF2qbqVE16h-XFW27_) for testing.
+- We also provide our compiled files (https://drive.google.com/file/d/1DRFpb75eCCOynFtF2qbqVE16h-XFW27_/view?usp=sharing) for testing.
 
 (2) Install the Matlab engine for Python:
 - Follow the instructions: https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html
