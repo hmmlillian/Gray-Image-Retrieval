@@ -41,7 +41,7 @@ The input is either gray or color image (but it will be automatically converted 
 ### Download Models
 You need to download models and compressed feature database of ImageNet before running a demo.
 - Go to ```model/vgg_19_gray_bn/``` folder and download:  
-  https://www.dropbox.com/s/mnsxsfv5non3e81/vgg19_bn_gray_ft_iter_150000.caffemodel?dl=0
+  https://www.dropbox.com/s/liz78q1lf9bc57s/vgg19_bn_gray_ft_iter_150000.caffemodel?dl=0
 - Go to ```demo/ImageNet/``` folder and download: 
   https://drive.google.com/open?id=1FS04QjIowFN2iFWqP_5lfcG6GyGH5yJE
 
